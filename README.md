@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Hi 👋, I'm Sumit Upadhyay<br>A passionate Software Development || Full Stack Engineer || AI Engineer<br><br>Full Stack Engineer with 1 year of experience developing scalable backend systems, REST APIs, automation scripts, and <br>cloud-based applications. Experienced with JavaScript, Docker, Linux, CI/CD, LangChain, PostgreSQL, REST API <br>integrations. Strong understanding of automation, containerization, scripting, DevOps practices. <br><br>Email Me 👉 ✉️ sumitupadhyay852@gmail.com<br><br>🔭 I’m currently working on: RAG, Software Engineering, AI<br>⚡ Fun fact: I Love Singing and Guitar Love Me
+💫 Hi 👋, I'm Sumit Upadhyay<br>A passionate Software Development || Full Stack Engineer || AI Engineer<br><br>Full Stack Engineer with 1+ year of experience developing scalable backend systems, REST APIs, automation scripts, and <br>cloud-based applications. Experienced with JavaScript, Docker, Linux, CI/CD, LangChain, PostgreSQL, REST API <br>integrations. Strong understanding of automation, containerization, scripting, DevOps practices. <br><br>Email Me 👉 ✉️ sumitupadhyay852@gmail.com<br><br>🔭 I’m currently working on: RAG, Software Engineering, AI<br>⚡ Fun fact: I Love Singing and Guitar Love Me
 
 
 ## 🌐 Socials:
